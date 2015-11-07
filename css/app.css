@@ -1,0 +1,12 @@
+html {
+    background-color: blue;
+    color: white;
+    background: -webkit-radial-gradient(darkblue 10%, black);
+    background: -o-radial-gradient(darkblue 10%,black);
+    background: -moz-radial-gradient(darkblue 10%,black);
+    background: radial-gradient(darkblue 10%,black);
+    font-family: 'Lato', sans-serif;
+}
+.footer {
+    font-size: 12px;
+}
